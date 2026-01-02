@@ -1,3 +1,11 @@
+## 💫 About Me
+
+🔭 I’m currently working as Project Engineer In Dycon system pvt.ltd
+👯 I’m looking to collaborate on Project
+🤝 I’m working in different projects like industrial Project with the help of Data + SQL
+🌱 I’m currently learning the skills to help me to grow
+💬 Ask me about anything Regarding the Jobs, Projects
+⚡ Fun fact Stay Happy and Stay Safe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isdai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Learningedu081998@gmail.com) 
